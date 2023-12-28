@@ -1,0 +1,803 @@
+{ "Rankings": [
+  {
+    "Institute Id": "IR-O-U-0220",
+    "Institute Name": "Indian Institute of Science",
+    "City": "Bengaluru"
+  },
+  {
+    "Institute Id": "IR-O-U-0109",
+    "Institute Name": "Jawaharlal Nehru University",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0500",
+    "Institute Name": "Banaras Hindu University",
+    "City": "Varanasi"
+  },
+  {
+    "Institute Id": "IR-O-U-0570",
+    "Institute Name": "Calcutta University",
+    "City": "Kolkata"
+  },
+  {
+    "Institute Id": "IR-O-U-0436",
+    "Institute Name": "Amrita Vishwa Vidyapeetham",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR-O-U-0108",
+    "Institute Name": "Jamia Millia Islamia",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0234",
+    "Institute Name": "Manipal Academy of Higher Education",
+    "City": "Manipal"
+  },
+  {
+    "Institute Id": "IR-O-U-0575",
+    "Institute Name": "Jadavpur University",
+    "City": "Kolkata"
+  },
+  {
+    "Institute Id": "IR-O-U-0042",
+    "Institute Name": "University of Hyderabad",
+    "City": "Hyderabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0496",
+    "Institute Name": "Aligarh Muslim University",
+    "City": "Aligarh"
+  },
+  {
+    "Institute Id": "IR-O-U-0323",
+    "Institute Name": "Savitribai Phule Pune University",
+    "City": "Pune"
+  },
+  {
+    "Institute Id": "IR-O-U-0120",
+    "Institute Name": "University of Delhi",
+    "City": "Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0490",
+    "Institute Name": "Vellore Institute of Technology",
+    "City": "Vellore"
+  },
+  {
+    "Institute Id": "IR-O-U-0447",
+    "Institute Name": "Bharathiar University",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR-O-U-0308",
+    "Institute Name": "Institute of Chemical Technology",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0439",
+    "Institute Name": "Anna University",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0391",
+    "Institute Name": "Birla Institute of Technology & Science -Pilani",
+    "City": "Pilani"
+  },
+  {
+    "Institute Id": "IR-O-U-0304",
+    "Institute Name": "Homi Bhabha National Institute",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0235",
+    "Institute Name": "Mysore University",
+    "City": "Mysuru"
+  },
+  {
+    "Institute Id": "IR-O-U-0363",
+    "Institute Name": "Siksha `O` Anusandhan",
+    "City": "Bhubaneswar"
+  },
+  {
+    "Institute Id": "IR-O-U-0356",
+    "Institute Name": "Kalinga Institute of Industrial Technology",
+    "City": "Bhubaneswar"
+  },
+  {
+    "Institute Id": "IR-O-U-0476",
+    "Institute Name": "Shanmugha Arts Science Technology & Research Academy",
+    "City": "Thanjavur"
+  },
+  {
+    "Institute Id": "IR-O-U-0078",
+    "Institute Name": "Panjab University",
+    "City": "Chandigarh"
+  },
+  {
+    "Institute Id": "IR-O-U-0006",
+    "Institute Name": "Andhra University, Visakhapatnam",
+    "City": "Visakhapatnam"
+  },
+  {
+    "Institute Id": "IR-O-U-0497",
+    "Institute Name": "Amity University",
+    "City": "Gautam Budh Nagar"
+  },
+  {
+    "Institute Id": "IR-O-I-1480",
+    "Institute Name": "Thapar Institute of Engineering and Technology",
+    "City": "Patiala"
+  },
+  {
+    "Institute Id": "IR-O-U-0260",
+    "Institute Name": "Kerala University",
+    "City": "Thiruvananthapuram"
+  },
+  {
+    "Institute Id": "IR-O-I-1357",
+    "Institute Name": "University of Madras",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-I-1441",
+    "Institute Name": "Saveetha Institute of Medical and Technical Sciences",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0473",
+    "Institute Name": "S.R.M. Institute of Science and Technology",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0262",
+    "Institute Name": "Mahatma Gandhi University",
+    "City": "Kottayam"
+  },
+  {
+    "Institute Id": "IR-O-U-0027",
+    "Institute Name": "Osmania University",
+    "City": "Hyderabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0435",
+    "Institute Name": "Alagappa University",
+    "City": "Karaikudi"
+  },
+  {
+    "Institute Id": "IR-O-U-0222",
+    "Institute Name": "JSS Academy of Higher Education and Research",
+    "City": "Mysuru"
+  },
+  {
+    "Institute Id": "IR-O-U-0389",
+    "Institute Name": "Banasthali Vidyapith",
+    "City": "Banasthali"
+  },
+  {
+    "Institute Id": "IR-O-U-0020",
+    "Institute Name": "Koneru Lakshmaiah Education Foundation University (K L College of Engineering)",
+    "City": "Vaddeswaram"
+  },
+  {
+    "Institute Id": "IR-O-U-0331",
+    "Institute Name": "Tata Institute of Social Sciences",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0329",
+    "Institute Name": "Symbiosis International",
+    "City": "Pune"
+  },
+  {
+    "Institute Id": "IR-O-U-0523",
+    "Institute Name": "King George`s Medical University",
+    "City": "Lucknow"
+  },
+  {
+    "Institute Id": "IR-O-U-0474",
+    "Institute Name": "Sathyabama Institute of Science and Technology",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0107",
+    "Institute Name": "Jamia Hamdard",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0098",
+    "Institute Name": "Delhi Technological University",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0136",
+    "Institute Name": "Gujarat University",
+    "City": "Ahmedabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0253",
+    "Institute Name": "Cochin University of Science and Technology",
+    "City": "Cochin"
+  },
+  {
+    "Institute Id": "IR-O-U-0052",
+    "Institute Name": "Gauhati University",
+    "City": "Guwahati"
+  },
+  {
+    "Institute Id": "IR-O-U-0056",
+    "Institute Name": "Tezpur University",
+    "City": "Tezpur"
+  },
+  {
+    "Institute Id": "IR-O-I-1486",
+    "Institute Name": "Sri Ramachandra Institute of Higher Education and Research",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0196",
+    "Institute Name": "University of Kashmir",
+    "City": "Srinagar"
+  },
+  {
+    "Institute Id": "IR-O-I-1110",
+    "Institute Name": "Dr. D. Y. Patil Vidyapeeth",
+    "City": "Pune"
+  },
+  {
+    "Institute Id": "IR-O-U-0458",
+    "Institute Name": "Kalasalingam Academy of Research and Higher Education",
+    "City": "Srivilliputtur"
+  },
+  {
+    "Institute Id": "IR-O-U-0446",
+    "Institute Name": "Bharath Institute of Higher Education & Research",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0747",
+    "Institute Name": "Chandigarh University",
+    "City": "Mohali"
+  },
+  {
+    "Institute Id": "IR-O-U-0376",
+    "Institute Name": "Guru Nanak Dev University",
+    "City": "Amritsar"
+  },
+  {
+    "Institute Id": "IR-O-U-0037",
+    "Institute Name": "Sri Venkateswara University",
+    "City": "Tirupati"
+  },
+  {
+    "Institute Id": "IR-O-N-10",
+    "Institute Name": "SVKM`s Narsee Monjee Institute of Management Studies",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0642",
+    "Institute Name": "Shiv Nadar University",
+    "City": "Dadri"
+  },
+  {
+    "Institute Id": "IR-O-U-0448",
+    "Institute Name": "Bharathidasan University",
+    "City": "Tiruchirappalli"
+  },
+  {
+    "Institute Id": "IR-O-U-0369",
+    "Institute Name": "Pondicherry University",
+    "City": "Puducherry"
+  },
+  {
+    "Institute Id": "IR-O-U-0341",
+    "Institute Name": "North Eastern Hill University",
+    "City": "Shillong"
+  },
+  {
+    "Institute Id": "IR-O-U-0251",
+    "Institute Name": "Calicut University",
+    "City": "Malappuram"
+  },
+  {
+    "Institute Id": "IR-O-U-0295",
+    "Institute Name": "Datta Meghe Institute of Medical Sciences",
+    "City": "Wardha"
+  },
+  {
+    "Institute Id": "IR-O-U-0379",
+    "Institute Name": "Lovely Professional University",
+    "City": "Phagwara"
+  },
+  {
+    "Institute Id": "IR-O-U-0463",
+    "Institute Name": "Madurai Kamaraj University",
+    "City": "Madurai"
+  },
+  {
+    "Institute Id": "IR-O-U-0589",
+    "Institute Name": "Visva Bharati",
+    "City": "Santiniketan"
+  },
+  {
+    "Institute Id": "IR-O-U-0498",
+    "Institute Name": "Babasheb Bhimrao Ambedkar University",
+    "City": "Lucknow"
+  },
+  {
+    "Institute Id": "IR-O-U-0195",
+    "Institute Name": "University of Jammu",
+    "City": "Jammu"
+  },
+  {
+    "Institute Id": "IR-O-U-0011",
+    "Institute Name": "Gandhi Institute of Technology and Management",
+    "City": "Visakhapatnam"
+  },
+  {
+    "Institute Id": "IR-O-I-1361",
+    "Institute Name": "Bharati Vidyapeeth",
+    "City": "Pune"
+  },
+  {
+    "Institute Id": "IR-O-U-0215",
+    "Institute Name": "Bangalore University",
+    "City": "Bangalore"
+  },
+  {
+    "Institute Id": "IR-O-U-0464",
+    "Institute Name": "Manonmaniam Sundaranar University",
+    "City": "Tirunelveli"
+  },
+  {
+    "Institute Id": "IR-O-U-0318",
+    "Institute Name": "Mumbai University",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0321",
+    "Institute Name": "Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",
+    "City": "Mumbai"
+  },
+  {
+    "Institute Id": "IR-O-U-0147",
+    "Institute Name": "Pandit Deendayal Petroleum University",
+    "City": "Gandhinagar"
+  },
+  {
+    "Institute Id": "IR-O-U-0470",
+    "Institute Name": "Periyar University",
+    "City": "Salem"
+  },
+  {
+    "Institute Id": "IR-O-U-0444",
+    "Institute Name": "Avinashilingam Institute for Home Science & Higher Education for Women",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR-O-U-0298",
+    "Institute Name": "Dr. Babasaheb Ambedkar Marathwada University",
+    "City": "Aurangabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0239",
+    "Institute Name": "NITTE",
+    "City": "Mangaluru"
+  },
+  {
+    "Institute Id": "IR-O-I-1280",
+    "Institute Name": "Maharshi Dayanand University",
+    "City": "Rohtak"
+  },
+  {
+    "Institute Id": "IR-O-U-0099",
+    "Institute Name": "Guru Gobind Singh Indraprastha University",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR-O-U-0370",
+    "Institute Name": "Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus",
+    "City": "Puducherry"
+  },
+  {
+    "Institute Id": "IR-O-U-0232",
+    "Institute Name": "Kuvempu University",
+    "City": "Shimoga"
+  },
+  {
+    "Institute Id": "IR-O-U-0249",
+    "Institute Name": "Visvesvaraya Technological University",
+    "City": "Belgaum"
+  },
+  {
+    "Institute Id": "IR-O-U-0014",
+    "Institute Name": "International Institute of Information Technology Hyderabad",
+    "City": "Hyderabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0372",
+    "Institute Name": "Central University of Punjab",
+    "City": "Bathinda"
+  },
+  {
+    "Institute Id": "IR-O-U-0569",
+    "Institute Name": "The University of Burdwan",
+    "City": "Bardhaman"
+  },
+  {
+    "Institute Id": "IR-O-U-0202",
+    "Institute Name": "Birla Institute of Technology",
+    "City": "Ranchi"
+  },
+  {
+    "Institute Id": "IR-O-U-0366",
+    "Institute Name": "Utkal University",
+    "City": "Bhubaneswar"
+  },
+  {
+    "Institute Id": "IR-O-U-0162",
+    "Institute Name": "Guru Jambheshwar University of Science and Technology",
+    "City": "Hisar"
+  },
+  {
+    "Institute Id": "IR-O-U-0190",
+    "Institute Name": "Shoolini University of Biotechnology and Management Sciences",
+    "City": "Solan"
+  },
+  {
+    "Institute Id": "IR-O-U-0143",
+    "Institute Name": "Maharaja Sayajirao University of Baroda",
+    "City": "Vadodara"
+  },
+  {
+    "Institute Id": "IR-O-U-0225",
+    "Institute Name": "KLE Academy of Higher Education and Research",
+    "City": "Belagavi"
+  },
+  {
+    "Institute Id": "IR-O-U-0451",
+    "Institute Name": "Chettinad Academy of Research and Education",
+    "City": "Kelambakkam, Chengalpattu District"
+  },
+  {
+    "Institute Id": "IR-O-U-0050",
+    "Institute Name": "Assam University",
+    "City": "Silchar"
+  },
+  {
+    "Institute Id": "IR-O-U-0507",
+    "Institute Name": "Dayalbagh Educational Institute",
+    "City": "Agra"
+  },
+  {
+    "Institute Id": "IR-O-U-0744",
+    "Institute Name": "Ashoka University",
+    "City": "Sonepat"
+  },
+  {
+    "Institute Id": "IR-O-U-0121",
+    "Institute Name": "Goa University",
+    "City": "Goa"
+  },
+  {
+    "Institute Id": "IR-O-U-0043",
+    "Institute Name": "Vignan's Foundation for Science, Technology and Research",
+    "City": "Guntur"
+  },
+  {
+    "Institute Id": "IR-O-U-0555",
+    "Institute Name": "Graphic Era University",
+    "City": "Dehradun"
+  },
+  {
+    "Institute Id": "IR-O-U-0223",
+    "Institute Name": "Jain university, Bangalore",
+    "City": "Bengluru"
+  },
+  {
+    "Institute Id": "IR-O-U-0564",
+    "Institute Name": "University of Petroleum and Energy Studies",
+    "City": "Dehradun"
+  },
+  {
+    "Institute Id": "IR-O-U-0383",
+    "Institute Name": "Punjabi University",
+    "City": "Patiala"
+  },
+  {
+    "Institute Id": "IR-O-U-0345",
+    "Institute Name": "Mizoram University",
+    "City": "Aizawl"
+  },
+  {
+    "Institute Id": "IR-O-U-0035",
+    "Institute Name": "Sri Sathya Sai Institute of Higher Learning",
+    "City": "Anantapur"
+  },
+  {
+    "Institute Id": "IR-O-U-0051",
+    "Institute Name": "Dibrugarh University",
+    "City": "Dibrugarh"
+  },
+  {
+    "Institute Id": "IR-O-U-0250",
+    "Institute Name": "Yenepoya University",
+    "City": "Mangaluru"
+  },
+  {
+    "Institute Id": "IR-O-U-0576",
+    "Institute Name": "Kalyani University",
+    "City": "Kalyani"
+  },
+  {
+    "Institute Id": "IR-O-C-23033",
+    "Institute Name": "Krishna Institute of Medical Sciences",
+    "City": "Karad"
+  },
+  {
+    "Institute Id": "IR-O-U-0453",
+    "Institute Name": "The Gandhigram Rural Institute ",
+    "City": "Gandhigram"
+  },
+  {
+    "Institute Id": "IR-O-U-0168",
+    "Institute Name": "Maharishi Markandeshwar",
+    "City": "Ambala"
+  },
+  {
+    "Institute Id": "IR-O-U-0164",
+    "Institute Name": "Kurukshetra University",
+    "City": "Kurukshetra"
+  },
+  {
+    "Institute Id": "IR-O-U-0554",
+    "Institute Name": "G. B. Pant Universtiy of Agriculture and Technology",
+    "City": "Pantnagar"
+  },
+  {
+    "Institute Id": "IR-O-U-0485",
+    "Institute Name": "Tamil Nadu Agricultural University",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR-O-U-0381",
+    "Institute Name": "Punjab Agricultural University",
+    "City": "Ludhiana"
+  },
+  {
+    "Institute Id": "IR-O-U-0159",
+    "Institute Name": "Chaudhary Charan Singh Haryana Agricultural University",
+    "City": "Hisar"
+  },
+  {
+    "Institute Id": "IR-O-U-0123",
+    "Institute Name": "Anand Agricultural University",
+    "City": "Anand"
+  },
+  {
+    "Institute Id": "IR-O-U-0487",
+    "Institute Name": "Tamil Nadu Veterinary & Animal Sciences University",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-O-U-0036",
+    "Institute Name": "Sri Venkateswara Institute of Medical Sciences",
+    "City": "Tirupati"
+  },
+  {
+    "Institute Id": "IR-O-U-0784",
+    "Institute Name": "Professor Jayashankar Telangana State Agricultural UniversityMore Details\nClose | Close | TLR (100)RPC (100)GO (100)OI (100)PERCEPTION (100)72.871.7167.5241.43",
+    "City": "Hyderabad"
+  },
+  {
+    "Institute Id": "IR-O-U-0181",
+    "Institute Name": "Dr. Y. S. Parmar University of Horticulture and Forestry",
+    "City": "Solan"
+  },
+  {
+    "Institute Id": "IR-O-U-0246",
+    "Institute Name": "University of Agricultural Sciences",
+    "City": "Dharwad"
+  },
+  {
+    "Institute Id": "IR-O-U-0233",
+    "Institute Name": "Mangalore University",
+    "City": "Mangalagangotri"
+  },
+  {
+    "Institute Id": "IR-O-U-0460",
+    "Institute Name": "Karunya Institute of Technology and Sciences",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR-O-U-0047",
+    "Institute Name": "Rajiv Gandhi University",
+    "City": "Itanagar"
+  },
+  {
+    "Institute Id": "IR-O-U-0465",
+    "Institute Name": "Meenakshi Academy of Higher Education and Research",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-6-O-OEMALP-U-0006",
+    "Institute Name": "Andhra University",
+    "City": "Visakhapatnam"
+  },
+  {
+    "Institute Id": "IR-3-O-ODP-I-1486",
+    "Institute Name": "Sri Ramachandra Medical College and Research Institute",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR-2-O-EM-U-0020",
+    "Institute Name": "Koneru Lakshmaiah Education Foundation University",
+    "City": "Vaddeswaram"
+  },
+  {
+    "Institute Id": "IR-1-O-O-U-0568",
+    "Institute Name": "Bidhan Chandra Krishi Vishwavidyalaya",
+    "City": "Nadia"
+  },
+  {
+    "Institute Id": "IR-1-O-O-U-0360",
+    "Institute Name": "Orissa University of Agriculture & Technology",
+    "City": "Khordha"
+  },
+  {
+    "Institute Id": "IR-2-O-OD-U-0250",
+    "Institute Name": "Yenepoya",
+    "City": "Mangalore"
+  },
+  {
+    "Institute Id": "IR-1-O-O-U-0146",
+    "Institute Name": "Nirma University",
+    "City": "Ahmedabad"
+  },
+  {
+    "Institute Id": "IR-1-O-O-U-0347",
+    "Institute Name": "Nagaland University",
+    "City": "Zunheboto"
+  },
+  {
+    "Institute Id": "IR-1-O-D-U-0294",
+    "Institute Name": "D. Y. Patil Educational Society",
+    "City": "Kolhapur"
+  },
+  {
+    "Institute Id": "IR-3-O-OEM-U-0733",
+    "Institute Name": "PES University",
+    "City": "Bengaluru"
+  },
+  {
+    "Institute Id": "IR-2-O-OE-U-0522",
+    "Institute Name": "Jaypee Institute of Information Technology",
+    "City": "Noida"
+  },
+  {
+    "Institute Id": "IR17-I-2-18243",
+    "Institute Name": "Indian Institute of Science Bangalore",
+    "City": "Bengaluru"
+  },
+  {
+    "Institute Id": "IR17-I-2-30673",
+    "Institute Name": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+    "City": "Bengaluru"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-243",
+    "Institute Name": "Indian Agricultural Research Institute",
+    "City": "New Delhi"
+  },
+  {
+    "Institute Id": "IR17-I-2-18364",
+    "Institute Name": "Manipal Academy of Higher Education-Manipal",
+    "City": "Manipal"
+  },
+  {
+    "Institute Id": "IR17-I-1-1-249",
+    "Institute Name": "Indian Institute of Space Science and Technology",
+    "City": "Thiruvananthapuram"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-661",
+    "Institute Name": "Sri Ramachandra University",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-299",
+    "Institute Name": "Jagadguru Sri Shivarathreeshwara University",
+    "City": "Mysore"
+  },
+  {
+    "Institute Id": "IR17-I-2-18214",
+    "Institute Name": "Guru Angad Dev Veterinary & Animal Sciences University",
+    "City": "Ludhiana"
+  },
+  {
+    "Institute Id": "IR17-I-2-18259",
+    "Institute Name": "AMITY University",
+    "City": "Gautam Budh Nagar"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-33",
+    "Institute Name": "Annamalai University",
+    "City": "Annamalainagar"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-11112",
+    "Institute Name": "Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology",
+    "City": "Chennai"
+  },
+  {
+    "Institute Id": "IR17-I-2-18356",
+    "Institute Name": "Mahatma Gandhi Unversity",
+    "City": "Kottayam"
+  },
+  {
+    "Institute Id": "IR17-I-2-18446",
+    "Institute Name": "Rajasthan University of Veterinary & Animal Sciences",
+    "City": "Bikaner"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-670",
+    "Institute Name": "Sri Venkateswara Veterinary University",
+    "City": "Tirupati"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-570",
+    "Institute Name": "Rajasthan University",
+    "City": "Jaipur"
+  },
+  {
+    "Institute Id": "IR17-I-2-18407",
+    "Institute Name": "NITTE University",
+    "City": "Mangalore"
+  },
+  {
+    "Institute Id": "IR17-I-2-15640",
+    "Institute Name": "Vidyasagar University",
+    "City": "Midnapore"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-2812182676",
+    "Institute Name": "Gandhi Institute of Technology and Management (GITAM)",
+    "City": "Visakhapatnam"
+  },
+  {
+    "Institute Id": "IR17-I-2-18311",
+    "Institute Name": "Karpagam Academy of Higher Education",
+    "City": "Coimbatore"
+  },
+  {
+    "Institute Id": "IR17-I-2-277952",
+    "Institute Name": "Assam University-Silchar",
+    "City": "Silchar"
+  },
+  {
+    "Institute Id": "IR17-I-2-18296",
+    "Institute Name": "Jaypee University of Information Technology-Solan",
+    "City": "Solan"
+  },
+  {
+    "Institute Id": "IR17-I-2-18551",
+    "Institute Name": "University of Allahabad",
+    "City": "Allahabad"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-N001",
+    "Institute Name": "Sri Krishnadevaraya University",
+    "City": "Anantapur"
+  },
+  {
+    "Institute Id": "IR17-I-1-18289",
+    "Institute Name": "Jawaharlal Nehru Technological University",
+    "City": "Kakinada"
+  },
+  {
+    "Institute Id": "IR17-I-2-1-57",
+    "Institute Name": "B.S. Abdur Rahman Institute of Science and Technology",
+    "City": "Chennai"
+  }
+]
+}
