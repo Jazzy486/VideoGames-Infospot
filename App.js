@@ -23,7 +23,7 @@ export default function App() {
       console.log('Data from JSON: ', data);
       
       // Assuming the JSON data structure is an array of objects
-    const mappedData = data.rankings.map((item) => [
+    const mappedData = data.Rankings.map((item) => [
       item["Institute Id"],
       item["Institute Name"],
       item.City,
